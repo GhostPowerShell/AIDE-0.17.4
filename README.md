@@ -43,7 +43,7 @@ AIDE (Advanced Intrusion Detection Environment) - это IDS (Intrusion Detectio
 
 `database_new=file:/var/lib/aide/aide.db.new` указывает, что AIDE должен использовать файл `/var/lib/aide/aide.db.new` как новую базу данных при следующем запуске.
 #### 2. Правила
-Правила отвечают
+
 Более подробно с правилами можно ознакомиться тут https://linux.die.net/man/5/aide.conf
 
 #### 3. Выбор файлов и директорий для мониторинга
